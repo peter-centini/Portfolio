@@ -7,4 +7,7 @@ npm start
 pour le tester et le modifier 
 
 <p align="center">
-<img src="" width="350" title="portfolio img"></p>
+<img src="https://github.com/peter-centini/Portfolio/blob/main/screen-1.png" width="350" title="portfolio img"></p>
+
+<p align="center">
+<img src="https://github.com/peter-centini/Portfolio/blob/main/screen-2.png" width="350" title="portfolio img"></p>
